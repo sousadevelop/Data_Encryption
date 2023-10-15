@@ -1,13 +1,6 @@
-# Projeto_Ransomware
-Como criar um ransomware para testes e com fins didáticos.
-
-## Os códigos estão nos arquivos decrypter e crypter
-
-## Resultados
-
-![image](https://user-images.githubusercontent.com/92130316/228110300-3e1f920a-8ead-4496-9a73-bb5c68631de4.png)
-
-![image](https://user-images.githubusercontent.com/92130316/228110800-5341d9d7-3acb-4664-867f-cb31eebfb270.png)
+# Criptografia de Dados
+Este projeto destina-se apenas a fins didáticos, não se responsabilizando por quaisquer mal uso dele.
+O principal objetivo é compreender como funciona o sistema de criptografia e descriptografia, além de servir como recurso
+para que cada um possa usar para manter seus próprios dados guardados de forma segura.
 
 
-![image](https://user-images.githubusercontent.com/92130316/228110765-4eb2c38a-b258-42ce-ab53-1d87346855dc.png)

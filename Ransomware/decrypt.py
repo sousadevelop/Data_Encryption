@@ -21,6 +21,6 @@ with open("chave.key", "rb") as key_file:
     key = key_file.read()                           # Lendo chave de decryptação
 
 # Caminho da pasta que você deseja criptografar os arquivos
-folder_path = r"C:\Users\victt\OneDrive\Imagens\Infos"
+folder_path = r"C:\Users\profile/documents/Infos"
 
 decriptar_arq_em_pastas(folder_path, key)           # Usando o caminho da pasta que deve ser decryptada e a chave

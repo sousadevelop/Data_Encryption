@@ -21,7 +21,7 @@ def encriptar_arq_em_pastas(folder_path, key):
 key = Fernet.generate_key()
 
 # Caminho da pasta que você deseja criptografar os arquivos
-folder_path = r"C:\Users\victt\OneDrive\Imagens\Infos"
+folder_path = r"C:\Users\profile/documents/Infos"
 
 encriptar_arq_em_pastas(folder_path, key)
 

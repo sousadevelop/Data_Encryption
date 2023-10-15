@@ -1,0 +1,33 @@
+** Todos os dados abaixo foram gerados de forma aleatória pelo site:
+https://www.4devs.com.br/gerador_de_empresas
+Ou seja, são dados ficticios!
+
+
+Nome:
+Ayla e Gael Comercio de Bebidas ME
+CNPJ:
+14.352.045/0001-30
+Inscrição Estadual:
+006.489.535.506
+Data de Abertura:
+15/02/2018
+Site:
+www.aylaegaelcomerciodebebidasme.com.br
+E-Mail:
+sac@aylaegaelcomerciodebebidasme.com.br
+CEP:
+13253-292
+Endereço:
+Rua Gonçalves Dias
+Número:
+622
+Bairro:
+Vila Santa Terezinha
+Cidade:
+Itatiba
+Estado:
+SP
+Telefone:
+(11) 3782-0592
+Celular:
+(11) 98145-4329
